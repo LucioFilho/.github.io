@@ -1,3 +1,5 @@
+console.log("Enjoy the Euromillones Simulator. \n This simulator uses 3 random numbers with same value to get each number.");
+
 function lotteryCalculate() {
   let i = 0;
   let range = [];
